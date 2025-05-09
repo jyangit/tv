@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1,elta體育1
+http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1,elta體育1-backup
+http://50.7.234.10:8278/eltasport_twn/playlist.m3u8
 #EXTINF:-1,Plus即时
 https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 #EXTINF:-1,Plus即时
