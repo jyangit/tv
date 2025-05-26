@@ -39215,6 +39215,22 @@ http://stream.hrbtv.net/shpd/sd/live.m3u8
 http://stream.hrbtv.net/shpd/sd/live.m3u8
 
 # --- 体育 Channels ---
+#EXTINF:-1 group-title="体育",tnt
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=13098&extension=ts&play_token=zIwiK0uCi4
+#EXTINF:-1 group-title="体育",tnt-2
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=13098&extension=ts&play_token=zIwiK0uCi4
+#EXTINF:-1 group-title="体育",espn
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=11203&extension=ts&play_token=JMbwjki3zF
+#EXTINF:-1 group-title="体育",espn-2
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=11203&extension=ts&play_token=JMbwjki3zF
+#EXTINF:-1 group-title="体育",espn 2
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=11204&extension=ts&play_token=4EctL2p2Rb
+#EXTINF:-1 group-title="体育",espn 2-2
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=11204&extension=ts&play_token=4EctL2p2Rb
+#EXTINF:-1 group-title="体育",espn 3
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=75369&extension=ts&play_token=c8fyP8Piqi
+#EXTINF:-1 group-title="体育",espn 3-2
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=75369&extension=ts&play_token=c8fyP8Piqi
 #EXTINF:-1 group-title="体育",qazsport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 group-title="体育",qazsport-2
@@ -39263,10 +39279,6 @@ http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=13135&extension=
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=1163873&extension=ts&play_token=naUxSWWfMZ
 #EXTINF:-1 group-title="体育",premier sports-2
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=1163873&extension=ts&play_token=naUxSWWfMZ
-#EXTINF:-1 group-title="体育",tnt
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=13098&extension=ts&play_token=zIwiK0uCi4
-#EXTINF:-1 group-title="体育",tnt-2
-http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=13098&extension=ts&play_token=zIwiK0uCi4
 #EXTINF:-1 group-title="体育",w-sport
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=1163950&extension=ts&play_token=HR1fUOt08T
 #EXTINF:-1 group-title="体育",w-sport-2
@@ -46072,9 +46084,9 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 #EXTINF:-1 group-title="香港",tvbe joinville-2
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 #EXTINF:-1 group-title="香港",rightnow tv
-https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+https://stream1.freetv.fun/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
 #EXTINF:-1 group-title="香港",rightnow tv-2
-https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+https://stream1.freetv.fun/2d864c47240105a338e9ebb2ee617cf045dec0bd66fac260feecb8d8f48441b5.m3u8
 #EXTINF:-1 group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="香港",香港卫视-2
