@@ -9737,18 +9737,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other",tshwane tv-2
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Other",tsn2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Other",tsn2-2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Other",tsn3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Other",tsn3-2
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Other",tsn5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="Other",tsn5-2
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="Other",tv 1
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Other",tv 1-2
@@ -17273,10 +17261,6 @@ https://stream.it-innov.com/tr24/index.m3u8
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 group-title="Other",tsi-2
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 group-title="Other",tsn1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Other",tsn1-2
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Other",tv 1 oberösterreich
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 group-title="Other",tv 1 oberösterreich-2
@@ -39215,6 +39199,22 @@ http://stream.hrbtv.net/shpd/sd/live.m3u8
 http://stream.hrbtv.net/shpd/sd/live.m3u8
 
 # --- 体育 Channels ---
+#EXTINF:-1 group-title="体育",tsn1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="体育",tsn1-2
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="体育",tsn2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="体育",tsn2-2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="体育",tsn3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="体育",tsn3-2
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="体育",tsn5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="体育",tsn5-2
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="体育",tnt
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:C3:C9:92&stream=13098&extension=ts&play_token=zIwiK0uCi4
 #EXTINF:-1 group-title="体育",tnt-2
